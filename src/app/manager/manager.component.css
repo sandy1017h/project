@@ -1,0 +1,56 @@
+.regf-e4{
+    text-align: center;
+    font-size: 28px;
+    font-style: oblique;
+    color: rgb(136, 151, 3);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 2px;
+    background-color: rgb(79, 216, 182);
+    
+    
+};
+.uleen-5{
+    color: rgb(64, 100, 28);
+    text-decoration:dotted;
+}
+.middlelayout{
+    background-color: rgb(148, 184, 102);
+    height: 180vh;
+    border: 5px solid rgb(76, 82, 83);
+}
+.middlelayoutheight{
+    background-color: #fff;
+    width: 95vh;
+    left: auto;
+    height:105vh;
+    border: 20px solid rgb(64, 141, 13);
+   
+
+}
+.mainhead{
+    text-align: center;
+    font-size: 23px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(122, 143, 73);
+    background-color: blanchedalmond;
+}
+label{
+    font-size: 17px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style:initial;
+    color: rgb(116, 5, 38);
+}
+.buto0ns-435{
+    background-color: rgb(110, 15, 78);
+    border-radius: 6px;
+    width: 78px;
+    height: 30px;
+    border: 1px solid rgb(104, 104, 83);
+}
+.esh-e4{
+    color: red;
+}
+.fntf{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(255, 0, 0);
+}

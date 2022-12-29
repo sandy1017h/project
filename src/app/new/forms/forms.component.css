@@ -1,0 +1,64 @@
+.regf-e4{
+    text-align: center;
+    font-size: 28px;
+    font-style: oblique;
+    color: rgb(151, 13, 3);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 2px;
+    background-color: rgb(164, 216, 79);
+    
+    
+};
+.uleen-5{
+    color: chartreuse;
+    text-decoration:dotted;
+}
+.middlelayout{
+    background-color: rgb(142, 167, 180);
+    height: 180vh;
+    border: 5px solid rgb(13, 115, 141);
+}
+.middlelayoutheight{
+    background-color: #fff;
+    width: 95vh;
+    left: auto;
+    height:105vh;
+    border: 20px solid rgb(13, 115, 141);
+    
+   
+
+}
+.mainhead{
+    text-align: center;
+    font-size: 23px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(62, 130, 133);
+    background-color: blanchedalmond;
+}
+label{
+    font-size: 17px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style:initial;
+    color: rgb(117, 57, 75);
+}
+.buto0ns-435{
+    background-color: chartreuse;
+    border-radius: 6px;
+    width: 78px;
+    height: 30px;
+    border: 1px solid rgb(104, 104, 83);
+}
+.esh-e4{
+    color: red;
+}
+.fntf{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(255, 0, 0);
+}
+::placeholder{
+    color: rgb(199, 170, 142);
+}
+.scrol{
+    overflow: scroll;
+    height: 90vh;
+}
